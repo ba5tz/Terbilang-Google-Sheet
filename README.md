@@ -5,4 +5,4 @@ Terbilang Untuk Google Sheet, simpan pada script editor, untuk penggunaan
 
 jika ingin menambah kata Rupiah
 
-```=Terbilang(A1) & " Rupiah")
+```=Terbilang(A1) & " Rupiah")```
