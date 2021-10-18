@@ -1,4 +1,7 @@
 function terbilang(Nilai){
+    if (Nilai.map){
+        return Nilai.map(terbilang);
+    }
     var bilangan=Nilai.toString();
     var kalimat="";
     var angka   = new Array('0','0','0','0','0','0','0','0','0','0','0','0','0','0','0','0');
